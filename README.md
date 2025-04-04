@@ -69,12 +69,6 @@ curl -X 'POST' \
   -F 'file=@sample.pdf'
 ```
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contributors
-- **Hardik Agarwal**
-
 ## Acknowledgments
 - Tesseract OCR
 - FastAPI
